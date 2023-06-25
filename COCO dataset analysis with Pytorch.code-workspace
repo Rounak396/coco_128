@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "COCO dataset analysis with Pytorch",
+			"path": "."
+		},
+		{
+			"name": "coco_128",
+			"path": "../../Documents/GitHub/coco_128"
+		}
+	],
+	"settings": {}
+}
